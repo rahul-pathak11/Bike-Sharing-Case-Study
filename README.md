@@ -23,3 +23,9 @@ The file consists of variables and its meaning that we are provided in the datas
 
 # day.csv file
 This is a raw dataset which we have used in the jupyter notebook to derive the inferences for the business.
+
+# LR Assignment's Subjective Questions & Answers.pdf
+This file contains the answers of some of the subjective questions asked by the business based on the inference we drew using Linear Regression.
+
+# MLR Bike Sharing Assignment.ipynb
+This file contains a thorough procedure I followed (including data cleaning, EDA, Scaling, Feature Engineering and LInear Regression algorithm) to reach out the ultimate inferences.
